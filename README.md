@@ -1,4 +1,4 @@
-📊 HR Analytics Attrition Dashboard
+# 📊 HR Analytics Attrition Dashboard
 
 🔍 Project Overview
 

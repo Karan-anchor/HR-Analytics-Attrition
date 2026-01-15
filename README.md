@@ -1,4 +1,4 @@
-📊 HR Analytics Attrition Dashboard
+##📊 HR Analytics Attrition Dashboard
 🔍 Project Overview
 
 This project focuses on analyzing employee attrition patterns using HR data.
